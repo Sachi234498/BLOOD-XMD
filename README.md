@@ -39,10 +39,12 @@
 
 
   **⛓️‍💥 NEW SESSION WEB ADDED √**
+
   
   <a href='https://pair-qc18.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
+
 
 
 ## _📡 DEPLOYMENT_
@@ -63,10 +65,12 @@
 
 ## ⚠️ _WARNING !_
 
+
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
   <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
   <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
 </div>
+
 
 
 ## 🗃️ _PROJECT ARCHITECTS_
