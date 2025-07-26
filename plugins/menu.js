@@ -57,9 +57,9 @@ cmd(
       }
 
       let madeMenu = `━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
-      *CHALAH MENU LIST *  *${pushname}*
+      *BLOOD MENU LIST *  *${pushname}*
       
-    *CHALAH MDCommand List*
+    *BLOOD XMD Command List*
 ╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
   *╭────────────●●►*
@@ -78,15 +78,15 @@ cmd(
 > 🄿🄾🅆🄴🅁🄳 🅱🆈 𝐒𝐔𝐋𝐀_𝐌𝐃 😈
 
 
-🥶𝐌𝐚𝐝𝐞 𝐛𝐲 CHALAH MD V1.0
+🥶𝐌𝐚𝐝𝐞 𝐛𝐲 BLOOD XMD V1.0
 
-> CHALAH MD 
+> BLOOD XMD 
 `;
       await robin.sendMessage(
         from,
         {
           image: {
-            url: "https://files.catbox.moe/an9o4o.webp",
+            url: "https://files.catbox.moe/38h6qg.jpg",
           },
           caption: madeMenu,
         },
