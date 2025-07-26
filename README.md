@@ -140,15 +140,15 @@ jobs:
 ## 🤖 _SHABAN-MD STATUS_
 
 ```diff
-+ Project Status: Active
-! Version: V.5 Neon Edition
++ Project Status: Updating
+! Version: V.1 Neon Edition
 # License: BSD 3-Clause
 ```
 
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=+SHABAN+MD+QUALITY+EDITION+BY+MR+SHABAN42;⚡+THE+FUTURE+OF+WHATSAPP+BOT+IS+HERE" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=+BLOOD+XMD+QUALITY+EDITION+BY+MR+SACHITHRA;⚡+THE+FUTURE+OF+WHATSAPP+BOT+IS+HERE" alt="Footer Animation">
 </h3>
 
 
