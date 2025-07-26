@@ -72,15 +72,6 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
   </table>
 </div>
 
--------------
-
-**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF SHABAN-MD ✠***
-
-```
-
-```
-
--------
 
 
 ## ⚠️ _WARNING !_
