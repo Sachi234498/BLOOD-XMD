@@ -25,7 +25,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN40/SHABAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-blood-xmd%20v1-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+  <a href="https://github.com/MRSHABAN40/SHABAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-blood xmd%20v1-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
 
 
