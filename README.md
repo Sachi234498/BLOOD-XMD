@@ -32,7 +32,7 @@
 ***BOT FEATURE ⤵️***
 
 | Menu ⁠➜ | Status Save | Group | ChatBot | Downloading | Antidelete | Viewonce | Fun | Status Reacts | HeartReacts | Autoreacts | 
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|
 | Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
   
