@@ -31,9 +31,9 @@
 
 ***BOT FEATURE ⤵️***
 
-| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter 
+| Menu ⁠➜ | Status Save | Group | ChatBot | Downloading | Antidelete | Viewonce | Fun | Status Reacts | HeartReacts | Autoreacts | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+| Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
   
 <a
