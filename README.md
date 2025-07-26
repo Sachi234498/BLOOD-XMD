@@ -3,7 +3,7 @@
 <a><img src='https://i.ibb.co/C37nZNgZ/shaban-md.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN42"><img title="Developer" src="https://img.shields.io/badge/Author-BLOOD%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/blood021"><img title="Developer" src="https://img.shields.io/badge/Author-BLOOD%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
