@@ -96,7 +96,7 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 🤖 _SHABAN-MD STATUS_
+## 🤖 _BLOOD-XMD STATUS_
 
 ```diff
 + Project Status: Updating
