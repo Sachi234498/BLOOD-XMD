@@ -44,7 +44,7 @@ cmd({
             `🔽 *Reply with your choice:*\n` +
             `1️⃣.1️⃣ *Video File (360p)* 📹\n` +
             `1️⃣.2️⃣ *Document File* 📁\n\n` +
-            `${config.FOOTER || "POWERED BY YOUR BOT NAME"}`;
+            `${config.FOOTER || "POWERED BY BLOOD XMD"}`;
 
         const sentMsg = await conn.sendMessage(from, { image: { url: image }, caption: info }, { quoted: mek });
         const messageID = sentMsg.key.id;
