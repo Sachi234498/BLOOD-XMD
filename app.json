@@ -1,8 +1,8 @@
 {
-  "name": "DRK-MD",
-  "description": "DRK-MD Whatsapp Multidevice Bot",
-  "logo": "https://i.ibb.co/ynpGMvp8/1160.jpg",
-  "keywords": ["bot / Sula"],
+  "name": "BLOOD-XMD",
+  "description": "BLOOD-XMD Whatsapp Multidevice Bot",
+  "logo": "https://files.catbox.moe/38h6qg.jpg",
+  "keywords": ["bot / Blood"],
   "success_url": "/",
 
   "env": {
