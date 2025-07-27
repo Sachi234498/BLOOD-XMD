@@ -30,12 +30,12 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['94760663483']
+const ownerNumber = ['94761332610']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.split("MD=")[1];
+const sessdata = config.SESSION_ID.split("BLOOD XMD=")[1];
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -87,21 +87,21 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('MD Bot connected to whatsapp ✅')
 
-let up = `*Connecting DARK-MD Multidevice Whatsapp Bot ...💾*
+let up = `*Connecting BLOOD-XMD Multidevice Whatsapp Bot ...💾*
 
 
 *😈 : 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
 *╭┈───────────╴╴╴•⟢*
-*│
+*│https://whatsapp.com/channel/0029Vb5hLc0HltYF7Ebf2S0M
 *╰┈───────────╴╴╴•⟢*
 *😈 : 𝐂𝐎𝐍𝐓𝐀𝐂𝐓*
 *╭┈───────────╴╴╴•⟢*
-*│wa.me/
+*│https://wa.me/94761332610?text=.support
 *╰┈───────────╴╴╴•⟢*
 
 `;
 
-conn.sendMessage(conn.user.id,{ image: { url: `YOUR PHOTO URL` }, caption: up })
+conn.sendMessage(conn.user.id,{ image: { url: `https://files.catbox.moe/38h6qg.jpg` }, caption: up })
 
 }
 })
