@@ -1,7 +1,7 @@
 /*
 
 Plugin Author: *@DarkYasiya*
-Follow Us: *https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27*
+Follow Us: *https://whatsapp.com/channel/0029Vb5hLc0HltYF7Ebf2S0M*
 
 */
 
@@ -51,7 +51,7 @@ cmd({
             `🔽 *Reply with your choice:*\n` +
             `1️⃣.1️⃣ *Audio Type* 🎵\n` +
             `1️⃣.2️⃣ *Document Type* 📁\n\n` +
-            `${config.FOOTER || "POWERED BY YOUR BOT NAME"}`;
+            `${config.FOOTER || "POWERED BY BLOOD XMD"}`;
 
         const sentMsg = await conn.sendMessage(from, { image: { url: image }, caption: info }, { quoted: mek });
         const messageID = sentMsg.key.id;
