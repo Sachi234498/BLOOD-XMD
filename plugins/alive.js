@@ -13,7 +13,7 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `╭━━〔 *MD* 〕━━┈⊷
+        const status = `╭━━〔 *BLOOD-XMD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *👋Hi*: ${pushname}
 ┃◈┃• *⏳Uptime*:  ${runtime(process.uptime())} 
@@ -35,8 +35,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363401249335754@newsletter',
-                    newsletterName: 'MD',
+                    newsletterJid: '120363419102725912@newsletter',
+                    newsletterName: 'BLOOD-XMD',
                     serverMessageId: 143
                 }
             }
