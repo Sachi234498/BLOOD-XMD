@@ -59,21 +59,21 @@ cmd(
       let madeMenu = `━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
       *BLOOD MENU LIST *  *${pushname}*
       
-    *BLOOD XMD Command List*
+       *BLOOD XMD Command List*
 ╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
-  *╭────────────●●►*
-  *│1. DOWNLOAD MENU*
-  *│2. SEARCH MENU* 
-  *│3. AI MENU*
-  *│4. OWNER MENU*
-  *│5. GROUP MENU*
-  *│6. INFO MENU*
-  *│7. CONVERTER MENU*
-  *│8. RANDOM MENU*
-  *│9. WALLPAPERS MENU*
-  *│10. OTHER MENU*
-  *╰────────────●●►*
+  
+  ┃1│📥 Download Menu
+  ┃2│👥 Group Menu
+  ┃3│😄 Fun Menu
+  ┃4│🗣 Owner Menu
+  ┃4│🤖 Dual Menu
+  ┃5│🎎 Anime Menu
+  ┃6│🔄 Convert Menu
+  ┃7│📌 Other Menu
+  ┃8│💞 Reactions Menu
+  ┃9│ 🏠 Main Menu
+
 
 > 🄿🄾🅆🄴🅁🄳 🅱🆈 𝐒𝐔𝐋𝐀_𝐌𝐃 😈
 
