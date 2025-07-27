@@ -26,7 +26,7 @@ cmd({
             const data = response.data.data.data;
 
             // Prepare the message with video details and options
-            const message = `🎬 ⇼⛚ 𝙳𝙸𝙽𝚄𝚆𝙷 ⚋ 𝙼𝙳 ⚋ 𝚃𝙸𝙺𝚃𝙾𝙺 ⚋ 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁 ⛚⇼  
+            const message = `🎬 ⇼⛚ BLOOD ⚋ X𝙼𝙳 ⚋ 𝚃𝙸𝙺𝚃𝙾𝙺 ⚋ 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁 ⛚⇼  
 
 ┏━━━━━━━━━━━ ℹ️ 𝙳𝙴𝚃𝙰𝙸𝙻𝚂 ━━━━━━━━━━━┓  
 📌 *Title:* ${data.title}  
@@ -43,8 +43,8 @@ cmd({
    4️⃣ *Thumbnail*  
 └──────────────────────────────┘  
 
-⚡ *Powered by CHALAH MD WhatsApp Bot*  
-🔥 *Made by CHALAH BOY✌️*`;
+⚡ *Powered by BLOOD XMD WhatsApp Bot*  
+🔥 *Made by SACHITHRA MADUSANKA✌️*`;
 
             // Send the message and save the message ID
             const sentMsg = await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: message }, { quoted: mek });
@@ -76,7 +76,7 @@ cmd({
                             // Handle option 1 (No Watermark Video)
                             await conn.sendMessage(
                                 from,
-                                { video: { url: data.nowm }, caption: "📥 **මෙන්න Watermark නැති Video එක!**\n🔥 *Powered by DINUWH MD*" },
+                                { video: { url: data.nowm }, caption: "📥 **මෙන්න Watermark නැති Video එක!**\n🔥 *Powered by BLOOD XMD*" },
                                 { quoted: mek }
                             );
                             break;
@@ -84,7 +84,7 @@ cmd({
                             // Handle option 2 (Watermark Video)
                             await conn.sendMessage(
                                 from,
-                                { video: { url: data.watermark }, caption: "📥 **මෙන්න Watermark Video එක!**\n🔥 *Powered by DINUWH MD*" },
+                                { video: { url: data.watermark }, caption: "📥 **මෙන්න Watermark Video එක!**\n🔥 *Powered by BLOOD XMD*" },
                                 { quoted: mek }
                             );
                             break;
@@ -92,7 +92,7 @@ cmd({
                             // Handle option 3 (Audio)
                             await conn.sendMessage(
                                 from,
-                                { audio: { url: data.audio }, mimetype: 'audio/mp4', caption: "🎵 **මෙන්න TikTok Audio එක!**\n🔥 *Powered by DINUWH MD*" },
+                                { audio: { url: data.audio }, mimetype: 'audio/mp4', caption: "🎵 **මෙන්න TikTok Audio එක!**\n🔥 *Powered by BLOOD XMD*" },
                                 { quoted: mek }
                             );
                             break;
@@ -100,7 +100,7 @@ cmd({
                             // Handle option 4 (Thumbnail)
                             await conn.sendMessage(
                                 from,
-                                { image: { url: data.thumbnail }, caption: "📸 **මෙන්න Thumbnail එක!**\n🔥 *Powered by DINUWH MD*" },
+                                { image: { url: data.thumbnail }, caption: "📸 **මෙන්න Thumbnail එක!**\n🔥 *Powered by BLOOD XMD*" },
                                 { quoted: mek }
                             );
                             break;
