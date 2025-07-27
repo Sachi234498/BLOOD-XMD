@@ -11,7 +11,7 @@ let baseUrl;
 })();
 
 
-const yourName = "> MD";
+const yourName = "> BLOOD-XMD";
 
 //twitter dl (x)
 cmd({
