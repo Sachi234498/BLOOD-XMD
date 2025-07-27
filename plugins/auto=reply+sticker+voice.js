@@ -34,7 +34,7 @@ async (conn, mek, m, { from, body, isOwner }) => {
             const config = await readEnv();
             if (config.AUTO_STICKER === 'true') {
                 //if (isOwner) return;        
-                await conn.sendMessage(from,{sticker: { url : data[text]},package: 'QUEEN-RASHU-MD'},{ quoted: mek })   
+                await conn.sendMessage(from,{sticker: { url : data[text]},package: 'BLOOD-XMD'},{ quoted: mek })   
             
             }
         }
