@@ -62,7 +62,7 @@ async (conn, mek, m, { from, isOwner, quoted, reply }) => {
 
 * *🔢 Reply Below This Number Change To Bot Change Setting*
 
-> *🄿🄾🅆🄴🅁🄳 🅱🆈 SULA*`;
+> *𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙱𝙻𝙾𝙾𝙳 𝚇𝙼𝙳*`;
 
         const vv = await conn.sendMessage(from, { image: { url: "YOUR PHOTO URL"}, caption: desc }, { quoted: mek });
 
@@ -75,70 +75,70 @@ async (conn, mek, m, { from, isOwner, quoted, reply }) => {
             if (msg.message.extendedTextMessage.contextInfo && msg.message.extendedTextMessage.contextInfo.stanzaId === vv.key.id) {
                 switch (selectedOption) {
                     case '1.1':
-                        reply(".update MODE:public" );
+                       reply(".update MODE:public" );
                         break;
                     case '1.2':               
-                        reply(".update MODE:private");
+                        reply(".update MODE:private ✅");
                         break;
                     case '1.3':               
-                          reply(".update MODE:group");
+                          reply(".update MODE:group ✅");
                       break;
                     case '1.4':     
-                        reply(".update MODE:inbox");
+                        reply(".update MODE:inbox ✅");
                       break;
                     case '2.1':     
-                        reply(".update AUTO_VOICE:true");
+                        reply(".update AUTO_VOICE:true ✅");
                         break;
                     case '2.2':     
-                        reply(".update AUTO_VOICE:false");
+                        reply(".update AUTO_VOICE:false ❌");
                     break;
                     case '3.1':    
-                        reply(".update AUTO_READ_STATUS:true");
+                        reply(".update AUTO_READ_STATUS:true ✅");
                     break;
                     case '3.2':    
-                        reply(".update AUTO_READ_STATUS:false");
+                        reply(".update AUTO_READ_STATUS:false ❌");
                     break;                    
                     case '4.1':    
-                        reply(".update AUTO_STICKER:true");
+                        reply(".update AUTO_STICKER:true ✅");
                     break;
                     case '4.2':    
-                        reply(".update AUTO_STICKER:false");
+                        reply(".update AUTO_STICKER:false ❌");
                     break;                                        
                     case '5.1':    
-                        reply(".update AUTO_REPLY:true");
+                        reply(".update AUTO_REPLY:true ✅");
                     break;
                     case '5.2':    
-                        reply(".update AUTO_REPLY:false");
+                        reply(".update AUTO_REPLY:false ❌");
                     break;                        
                     case '6.1':    
-                        reply(".update ALLWAYS_OFFLINE:true");
+                        reply(".update ALLWAYS_OFFLINE:true ✅");
                     break; 
                     case '6.2':    
-                        reply(".update ALLWAYS_OFFLINE:false");
+                        reply(".update ALLWAYS_OFFLINE:false ❌");
                     break;                       
                     case '7.1':    
-                        reply(".update READ_MESSAGE:true");
+                        reply(".update READ_MESSAGE:true ✅");
                     break;
                     case '7.2':    
-                        reply(".update READ_MESSAGE:false");
+                        reply(".update READ_MESSAGE:false ❌");
                     break;
                     case '8.1':    
-                        reply(".update config.AUTO_REACT:true");
+                        reply(".update config.AUTO_REACT:true ✅");
                     break;
                     case '8.2':    
-                        reply(".update config.AUTO_REACT:false");
+                        reply(".update config.AUTO_REACT:false ❌");
                     break;
                     case '9.1':    
-                        reply(".update ANTI_LINK:true");
-                        reply(".update ANTI_LINKK:false");
+                        reply(".update ANTI_LINK:true ✅");
+                        reply(".update ANTI_LINKK:false ❌");
                     break;
                     case '9.2':    
-                        reply(".update ANTI_LINKK:true");
-                        reply(".update ANTI_LINK:false");
+                        reply(".update ANTI_LINKK:true ✅");
+                        reply(".update ANTI_LINK:false ❌");
                     break;
                     case '9.3':    
-                        reply(".update ANTI_LINK:false");
-                        reply(".update ANTI_LINKK:false");
+                        reply(".update ANTI_LINK:false ❌");
+                        reply(".update ANTI_LINKK:false ❌");
                     break;
                     default:
                         reply("Invalid option. Please select a valid option🔴");
