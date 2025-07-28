@@ -6,7 +6,7 @@ const imageUrl = 'YOUR PHOTO URL';
 
 cmd({
     pattern: "menu",
-    react: "📜",
+    react: "📋",
     alias: ["panel", "commands"],
     desc: "Get Bot Menu",
     category: "main",
@@ -17,24 +17,23 @@ async (conn, mek, m, { from, quoted, pushname, reply }) => {
     try {
         const selectionMessage = `
 ╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
-      *Hi 😈*  *${pushname}*
+      Hi 😊💗  ${pushname}
       
-    *Command List*
+    BLOOD XMD COMMAND LIST 🩸
 ╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
-  *╭────────────●●►*
-  *│1. DOWNLOAD MENU*
-  *│2. SEARCH MENU* 
-  *│3. AI MENU*
-  *│4. OWNER MENU*
-  *│5. GROUP MENU*
-  *│6. INFO MENU*
-  *│7. CONVERTER MENU*
-  *│8. RANDOM MENU*
-  *│9. WALLPAPERS MENU*
-  *│10. OTHER MENU*
-  *╰────────────●●►*
-
+  ╭────────────●●►
+  │1.  ❱❱ DOWNLOAD MENU 📄
+  │2. ❱❱ SEARCH MENU 🔍 
+  │3. ❱❱ AI MENU 🌀
+  │4. ❱❱ OWNER MENU 👤
+  │5. ❱❱ GROUP MENU 🖇
+  │6. ❱❱INFO MENU 👀
+  │7. ❱❱ CONVERTER MENU 🔄
+  │8. ❱❱ RANDOM MENU 🧸
+  │9. ❱❱ WALLPAPERS MENU 🖼
+  │10. ❱❱ OTHER MENU 🪄
+  ╰────────────●●►
 `;
 
         const sentMsg = await conn.sendMessage(from, {
