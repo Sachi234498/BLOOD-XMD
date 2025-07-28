@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "VISPER-MD&a8gjzYLR#IvHnRkqw9MdKWWUH-BdpJo9mF2JPAYdLZ_2Gq_nXxT0", // ඔයාගේ session id එක දාන්න
+SESSION_ID: process.env.SESSION_ID || "MD&a8gjzYLR#IvHnRkqw9MdKWWUH-BdpJo9mF2JPAYdLZ_2Gq_nXxT0", // ඔයාගේ session id එක දාන්න
 MONGODB: process.env.MONGODB || "Put the mongodb url here.", // ඔයාගේ mongodb url එක දාන්න
 ALIVE_IMG: process.env.ALIVE_IMG || "YOUR PHOTO URL",
 BOT_NAME: process.env.BOT_NAME || "MD",
